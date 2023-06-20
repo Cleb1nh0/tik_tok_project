@@ -1,3 +1,4 @@
-##Link do projeto:
-https://tiktok---jornada-e1c5c.web.app/
+##OI GALERA ESSE É MEU PRIMEIRO PROJETO FEITO COM HTML5,CSS,JAVASCRIPT,NODE.JS E INTEGRADO COM FIRABASE
+
+
 
